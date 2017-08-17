@@ -1,0 +1,29 @@
+{
+  "name": "react-ci-sample",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/didierfranc/react-ci-sample.git"
+  },
+  "author": "Didier Franc <didierfranc@me.com>",
+  "license": "MIT",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "bugs": {
+    "url": "https://github.com/didierfranc/react-ci-sample/issues"
+  }
+}

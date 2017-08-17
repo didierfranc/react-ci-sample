@@ -1,0 +1,9 @@
+{
+  "plugins": {
+    "s3": {
+      "bucket": "react-ci",
+      "access_key_id": "AKIAJWJCS2F4GEZ5OE3Q",
+      "secret_access_key": "hHm/Q/3JHGZR4+gVwTiUvFO8SVCh5f24hC2LJZm4kALnVGlyxHkNfM9fY4gsuAuDgA3JZ8IEmuyXdaARsHuZ0lFRqfHmncXXXsserqNOfI/QnNyFKl9la0es/ueUIyrGUtpXWCvWmAhbOfiF0fa+LFL1daUVfUmSEs7CoMGBHR1qt0zOJ5uZeU9GQwth8t7eZe9u7vxFjgioLVyH+TZWudc66VWM1OrdYUpQONbNhrp91X8/tGnQUi/iAokVmyk3ZzoBAHZGPkbQUZxv0MNoCEWhN6q1dj7XwyxSyp9sNfibYyZkvux3B6se2SnbJF2TqhgBS5q5eM4568nJd48tmDnCRqqk47lCXFbFS07kLhPBG95b3tJ3ll9ONG6c4R0+mQEH1Nw2NvWWIXmNLmVM32r7UKeu1UAdN8TP6DFQkJhkze0W1V39OYMD5VNSVVji95/ux+crHG7cqQ/wJ4WFE79tBuUs9II0S7AFprTsZIeTls1RnxZ3dzCOq668GW3IjWPb3j29uzpB9w/Vg9bvGTHJUhh328uuKP3ICEdUf/Jwe8GPsnn/diL3L5iAVYNxsPofDHBfYLou+LYbQ/2Szt+E8LDtvFc3oIm/dy6hx6Rwlz6DC/g9rU8IvZ+JdqXIuoTWeT4jLDW3FZTBkSxtF5EaqG5WszX6I7xFstPG61w="
+    }
+  }
+}
